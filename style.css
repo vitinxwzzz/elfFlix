@@ -1,5 +1,23 @@
 body{
-
+    color: darkred;
 background-color: #8B0000;
+margin:0px;
+margin-bottom: 100px;
 
+}
+
+header{
+    border-bottom: solid 2px #50127c;
+    margin: 20px;
+    font-size: 20px;
+    color:#50127c;
+}
+
+section{
+
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background:rgb(164, 0, 0) ;
+    display:flex;
+    justify-content: center;
 }
