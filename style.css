@@ -8,16 +8,16 @@ margin-bottom: 100px;
 }
 
 header{
-    border-bottom: solid 2px #a58e63 ;
+    border-bottom: solid 2px #c6a974 ;
     margin: 20px;
     font-size: 32px;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 section{    
 padding-bottom: 80px;
 padding-top: 80px;
-background: gray;
+background: rgb(0, 0, 0);
 display: flex;
 justify-content: center;
 }
@@ -69,3 +69,4 @@ color: #a58e63;
     padding: 20px;
     background-color: #0c0c0c;
     color: #c6a974;
+}
